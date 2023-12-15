@@ -1,4 +1,4 @@
--Hello! My name is Rae, (or Becky) and I'm a writer!
+-Hello! My name is Tim Lennon and I'm a writer!
 
 -I really adore poodles...
 
