@@ -1,5 +1,7 @@
-- Interesting.
-<!---
-Cinnapoodle/Cinnapoodle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to Becky's chicken shack.
+
+Bostonians are hot.
+
+I am not.
+
+"I've seen better repositories in an epileptic junkyard." - Me
